@@ -1,5 +1,5 @@
 import 'tailwindcss/tailwind.css'
-import LinhaTabuleiro from '../../components/LinhaTabuleiro'
+import LinhaTabuleiro from "../components/LinhaTabuleiro"
 
 export default function tabuleiro(){
 
